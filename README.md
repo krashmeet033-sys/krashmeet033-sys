@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌸 Hi, I'm **Rashmeet Kaur** 👋
+# 🌸 Hi, I'm Rashmeet Kaur 👋
 
 ### 💻 B.Tech Computer Science Engineering Student
 
@@ -48,7 +48,7 @@ Building scalable applications • Solving DSA Problems • Learning Everyday �
 <p align="center">
 <i>Passionate about Software Engineering • Full Stack Development • Continuous Learning</i>
 </p>
-Hi! I'm **Rashmeet Kaur**, a **B.Tech Computer Science Engineering** student at **ITM Skills University, Kharghar, Navi Mumbai**, with a strong passion for building modern, user-centric web applications and continuously expanding my technical expertise.
+Hi! I'm Rashmeet Kaur, A B.Tech Computer Science Engineering Student at ITM Skills University, Kharghar, Navi Mumbai, with a strong passion for building modern, user-centric web applications and continuously expanding my technical expertise.
 
 I enjoy transforming ideas into responsive, functional, and visually appealing digital experiences while strengthening my problem-solving skills through Data Structures and Algorithms.
 
