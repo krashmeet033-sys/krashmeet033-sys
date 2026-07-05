@@ -449,7 +449,8 @@ My goal is to build clean, maintainable, scalable, and high-quality software whi
 <p align="center">
 <b>Happy Coding • Keep Learning • Keep Building 🚀</b>
 </p>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer"/>
+</div>
 
 
 
