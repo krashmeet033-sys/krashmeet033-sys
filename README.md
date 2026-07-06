@@ -251,121 +251,67 @@ A collection of reusable React projects and UI components developed while explor
 
 ---
 
-# 🛠 My Development Workflow
+<h1 align="center">🚀 My Development Journey</h1>
 
-💡 Idea & Research
+<div align="center">
 
-⬇️
-
-📝 Planning & Wireframing
+🎓 Computer Science Student
 
 ⬇️
 
-🎨 UI/UX Design
+💻 Learning Programming Fundamentals
 
 ⬇️
 
-💻 Frontend Development
+🌐 Frontend Development
 
 ⬇️
 
-⚙️ Backend Integration
+⚛️ React Development
 
 ⬇️
 
-🗄 Database Management
+📚 Data Structures & Algorithms
 
 ⬇️
 
-🧪 Testing & Debugging
+⚙️ Full Stack Development
 
 ⬇️
 
-🚀 Deployment
+🤖 Artificial Intelligence
 
 ⬇️
 
-📈 Continuous Improvement
-      
-# 🌍 My Journey to Becoming a Software Engineer
-
-```text
-🎓 B.Tech CSE
-      │
-      ▼
-💻 Programming Fundamentals
-      │
-      ▼
-🌐 Web Development
-      │
-      ├── HTML5
-      ├── CSS3
-      ├── JavaScript
-      ├── Responsive Design
-      └── Bootstrap
-      │
-      ▼
-⚛️ Frontend Development
-      │
-      ├── React.js
-      ├── Vite
-      ├── Components
-      ├── Hooks
-      └── State Management
-      │
-      ▼
-📊 Data Structures & Algorithms
-      │
-      ├── Arrays
-      ├── Linked Lists
-      ├── Trees
-      ├── Graphs
-      ├── Searching
-      ├── Sorting
-      └── Dynamic Programming
-      │
-      ▼
-⚙️ Backend Development
-      │
-      ├── Node.js
-      ├── Express.js
-      ├── REST APIs
-      └── Authentication
-      │
-      ▼
-🗄️ Database Systems
-      │
-      ├── MySQL
-      ├── MongoDB
-      └── Database Design
-      │
-      ▼
-☁️ Cloud & DevOps
-      │
-      ├── Git
-      ├── GitHub
-      ├── Docker
-      ├── Vercel
-      ├── Netlify
-      └── AWS
-      │
-      ▼
-🚀 Real-World Full Stack Projects
-      │
-      ▼
-🤝 Open Source Contributions
-      │
-      ▼
-🏆 Hackathons & Tech Events
-      │
-      ▼
 💼 Software Engineering Internship
-      │
-      ▼
-🌟 Professional Full Stack Software Engineer
-```
 
+⬇️
 
+🌟 Professional Software Engineer
+
+</div>
+
+<h1 align="center">✨ What Makes Me Different</h1>
+
+<div align="center">
+
+🧠 Curious Learner
+
+⚡ Fast Problem Solver
+
+🎨 UI-Focused Developer
+
+💻 Passionate Programmer
+
+📚 Lifelong Learner
+
+🚀 Growth Mindset
+
+🤝 Team Player
+
+💡 Creative Thinker
+
+</div>
 
 ---
 
@@ -435,6 +381,24 @@ Every application I develop strengthens my understanding of software engineering
 My goal is to build clean, maintainable, scalable, and high-quality software while continuously learning, embracing new challenges, and growing into a professional Full Stack Software Engineer. 🚀
 
 </p>
+
+<h1 align="center">🤝 Open to Collaboration</h1>
+
+<div align="center">
+
+💻 Open Source Projects
+
+🌐 Full Stack Applications
+
+⚛️ React Development
+
+🚀 Innovative Ideas
+
+📚 Student Developer Communities
+
+💡 Learning Together
+
+</div>
 
 <div align="center">
 
