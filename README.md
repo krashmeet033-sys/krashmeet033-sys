@@ -200,17 +200,17 @@ A collection of reusable React projects and UI components developed while explor
 
 ---
 
-# 📊 GitHub Analytics
+<h1 align="center">📊 GitHub Analytics</h1>
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krashmeet033-sys&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krashmeet033-sys&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=krashmeet033-sys&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krashmeet033-sys&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=krashmeet033-sys&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=krashmeet033-sys&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
